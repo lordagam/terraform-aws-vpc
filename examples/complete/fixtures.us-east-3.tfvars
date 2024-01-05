@@ -1,6 +1,6 @@
-region = "us-east-2"
+region = "us-east-3"
 
-availability_zones = ["us-east-2a", "us-east-2b"]
+availability_zones = ["us-east-3a", "us-east-3b"]
 
 namespace = "eg"
 
