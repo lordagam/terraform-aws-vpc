@@ -6,7 +6,7 @@ namespace = "eg"
 
 stage = "test"
 
-name = "vpc-subnets"
+name = "vpc-jo-subnets"
 
 default_security_group_deny_all       = true
 default_route_table_no_routes         = true
