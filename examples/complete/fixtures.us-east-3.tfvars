@@ -2,7 +2,7 @@ region = "us-east-3"
 
 availability_zones = ["us-east-3a", "us-east-3b"]
 
-namespace = "eg"
+namespace = "vpc-jo"
 
 stage = "test"
 
