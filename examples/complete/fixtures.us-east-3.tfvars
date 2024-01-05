@@ -1,6 +1,6 @@
-region = "us-east-3"
+region = "eu-west-3"
 
-availability_zones = ["us-east-3a", "us-east-3b"]
+availability_zones = ["eu-west-3a", "eu-west-3b"]
 
 namespace = "vpc-jo"
 
