@@ -1,9 +1,9 @@
-region = "us-east-2"
+region = "eu-west-3"
 
-availability_zones = ["us-east-2a", "us-east-2b"]
+availability_zones = ["eu-west-3a", "eu-west-3b"]
 
-namespace = "eg"
+namespace = "jo"
 
 stage = "test"
 
-name = "vpc-endpoints"
+name = "vpc-jo-endpoints"
